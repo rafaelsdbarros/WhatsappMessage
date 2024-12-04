@@ -1,7 +1,7 @@
 # Automação de envio de mensagens no whatsapp
 
 Script feito para automatizar o envio de mensagens em massa via whatsapp.
-python3.11
+- python3.11
 
 ### bibliotecas utilizadas.
 
